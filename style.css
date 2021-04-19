@@ -1,0 +1,15 @@
+#snakeboard {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: black;
+}
+#score {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  text-align: center;
+  font-size: 40px;
+  transform: translate(-50%);
+}
